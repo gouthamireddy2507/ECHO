@@ -99,6 +99,6 @@ If you use this work in your research, please cite:
 This project was supported by the **Centre for Interdisciplinary Artificial Intelligence (CAI), FLAME University.**
 
 ## 👥 Contributors  
-- **Gouthami Godhala** ([GitHub Profile](https://github.com/gouthamireddy2507))  
-- **Vijayasree Asam** ([GitHub Profile](https://github.com/vijayasree1284))  
+- [Gouthami Godhala](https://github.com/gouthamireddy2507)
+- [Vijayasree Asam](https://github.com/vijayasree1284)
 - **Samriddha Sanyal**
