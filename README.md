@@ -87,12 +87,15 @@ The system supports multiple video genres:
 ## 📜 Citation
 If you use this work in your research, please cite:
 ```
-@inproceedings{godhala2024echo,
-  title={ECHO: Enhanced Communication for Hearing Impaired in Online Podcasts},
-  author={Gouthami Godhala, Vijayasree Asam, Samriddha Sanyal},
-  booktitle={Proceedings of the 8th International Conference on Data Science and Management of Data (CODS-COMAD)},
-  year={2024},
-  doi={10.1145/3703323.3703345}
+@article{godhala2025echo,
+  title={ECHO: enhanced communication for hearing impaired in online video podcasts},
+  author={Godhala, Gouthami and Asam, Vijayasree and Sanyal, Samriddha},
+  journal={Discover Data},
+  volume={3},
+  number={1},
+  pages={32},
+  year={2025},
+  publisher={Springer}
 }
 ```
 ## 🙏 Acknowledgments
